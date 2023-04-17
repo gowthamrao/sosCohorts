@@ -30,7 +30,7 @@ ROhdsiWebApi::authorizeWebApi(baseUrl, 'windows')
 webApiCohorts <-
   ROhdsiWebApi::getCohortDefinitionsMetaData(baseUrl = baseUrl)
 studyCohorts <-  webApiCohorts |>
-  dplyr::filter(id %in% c(12364, 12341,12340,12339, 12064,12350))
+  dplyr::filter(id %in% c(12364, 12341,12340,12339, 12064,12350, 12342))
 
 
 ################# end of user input ##############
