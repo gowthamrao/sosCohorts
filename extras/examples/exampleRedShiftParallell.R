@@ -29,7 +29,7 @@ databaseIds <-
   c(
     'truven_ccae',
     'truven_mdcd',
-    'cprd',
+    # 'cprd',
     'jmdc',
     'optum_extended_dod',
     'optum_ehr',
