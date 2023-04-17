@@ -1,0 +1,1772 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2877119,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0TY00Z",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Right @ Open @ No Device",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2211744,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "76776",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Ultrasound, transplanted kidney, real time and duplex Doppler with image documentation",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40664909,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G8727",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Patient receiving hemodialysis, peritoneal dialysis or kidney transplantation",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4324887,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "429451003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Disorder related to renal transplantation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40767034,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "64323-9",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "End Stage Renal Disease (ESRD) Facility Survey - OMB CMS form 2744",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Survey",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42539502,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "737295003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Transplanted kidney present",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4046829,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "23137002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anesthesia for renal transplant, recipient",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4163566,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "398887003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Renal replacement",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 38001396,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "652",
+            "VOCABULARY_ID": "DRG",
+            "CONCEPT_NAME": "Kidney transplant",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "MS-DRG",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2827873,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0TY10Z",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Left @ Open @ No Device",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2832392,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "BT29ZZ",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant @ None @ None",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44784262,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "698306007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Awaiting transplantation of kidney",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2898352,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "BT49ZZ",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Imaging @ Urinary System @ Ultrasonography @ Kidney Transplant @ None @ None",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2884635,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "BT291Z",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Imaging @ Urinary System @ Computerized Tomography (CT Scan) @ Kidney Transplant @ Low Osmolar @ None",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45888790,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1008098",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Renal Transplantation Procedures",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44786436,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G9231",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Documentation of end stage renal disease (esrd), dialysis, renal transplant before or during the measurement period or pregnancy during the measurement period",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4082531,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "241484009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "US scan of transplant kidney",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[SOS] Renal transplant Ref",
+      "id": 1
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4026915,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "225892009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Revision of arteriovenous shunt for renal dialysis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 38001423,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "685",
+            "VOCABULARY_ID": "DRG",
+            "CONCEPT_NAME": "Admit for renal dialysis",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "MS-DRG",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42628575,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "36901",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Introduction of needle(s) and/or catheter(s), dialysis circuit, with diagnostic angiography of the dialysis circuit, including all direct puncture(s) and catheter placement(s), injection(s) of contrast, all necessary imaging from the arterial anastomos...",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40664909,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G8727",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Patient receiving hemodialysis, peritoneal dialysis or kidney transplantation",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2788042,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "5A1D60Z",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Performance of Urinary Filtration, Multiple (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4146536,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "265764009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Renal dialysis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213577,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90947",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies) requiring repeated evaluations by a physician or other qualified health care professional, with or without substantial...",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213576,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90945",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45889034,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1012752",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hemodialysis Procedures",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "CPT4 Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4181476,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "428982002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dependence on hemodialysis due to end stage renal disease",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43018323,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "5A1D70Z",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617342,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G0257",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Unscheduled or emergency dialysis treatment for an esrd patient in a hospital outpatient department that is not certified as an esrd facility",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40757115,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "36148",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Introduction of needle and/or catheter, arteriovenous shunt created for dialysis (graft/fistula); additional access for therapeutic intervention (List separately in addition to code for primary procedure) (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2788041,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "5A1D00Z",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Performance of Urinary Filtration, Single (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40756908,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "36147",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Insertion of catheter into arteriovenous dialysis shunt (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42628378,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "CB",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Service ordered by a renal dialysis facility (rdf) physician as part of the esrd beneficiary's dialysis benefit, is not part of the composite rate, and is separately reimbursable",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4 Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2313999,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93990",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Duplex scan of hemodialysis access (including arterial inflow, body of access and venous outflow)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[SOS] Dialysis Ref",
+      "id": 2
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213591,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90964",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213585,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90958",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a physician o...",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213581,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90954",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physic...",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617552,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G8085",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "End-stage renal disease patient requiring hemodialysis vascular access was not an eligible candidate for autogenous av fistula",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213595,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90968",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 2-11 years of age",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213587,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90960",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 4 or more face-to-face visits by a physician or other qualified health care professional per month",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213596,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90969",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 12-19 years of age",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90957",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physi...",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36713020,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "16218721000119107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hyperparathyroidism due to end stage renal disease on dialysis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42738339,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90921",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End stage renal disease (ESRD) related services per full month; for patients twenty years of age and over (Deprecated)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213597,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90970",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 20 years of age and older",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213593,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90966",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 20 years of age and older",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213589,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90962",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 1 face-to-face visit by a physician or other qualified health care professional per month",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617795,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G8388",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "End-stage renal disease patient with urr or kt/v value not documented, but otherwise eligible for measure",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213582,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90955",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a physician or...",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42738336,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90918",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End stage renal disease (ESRD) related services per full month; for patients under two years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 193782,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "46177005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "End-stage renal disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213590,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90963",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services for home dialysis per full month, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617794,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G8387",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "End-stage renal disease patient with a hematocrit or hemoglobin not documented",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213586,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90959",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physician or o...",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213588,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90961",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 2-3 face-to-face visits by a physician or other qualified health care professional per month",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 443611,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "433146000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic kidney disease stage 5",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213578,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90951",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits b...",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213594,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90967",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients younger than 2 years of age",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213592,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90965",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42738338,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90920",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End stage renal disease (ESRD) related services per full month; for patients between twelve and nineteen years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42738678,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90924",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End stage renal disease (ESRD) related services (less than full month), per day; for patients between twelve and nineteen years of age (Deprecated)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42738677,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90923",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End stage renal disease (ESRD) related services (less than full month), per day; for patients between two and eleven years of age (Deprecated)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213580,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90953",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physi...",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42738676,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90922",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End stage renal disease (ESRD) related services (less than full month), per day; for patients under two years of age (Deprecated)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42738337,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90919",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End stage renal disease (ESRD) related services per full month; for patients between two and eleven years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents (Deprecated)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2213583,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90956",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physician or ot...",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42738679,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90925",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "End stage renal disease (ESRD) related services (less than full month), per day; for patients twenty years of age and over (Deprecated)",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40767034,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "64323-9",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "End Stage Renal Disease (ESRD) Facility Survey - OMB CMS form 2744",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Survey",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[SOS] ESRD Ref",
+      "id": 3
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37077746,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP385395-1",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Glomerular filtration rate.predicted among blacks | Serum, Plasma or Blood | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36662614,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LG50986-5",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Glomerular filtration rate/1.73 sq M.predicted|ArVRat|Pt|ANYBldSerPl",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Group",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37045756,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP385394-4",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Glomerular filtration rate.predicted among non blacks | Serum, Plasma or Blood | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37052213,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP385397-7",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Glomerular filtration rate.predicted among males | Serum, Plasma or Blood | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37033687,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP385393-6",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Predicted Glomerular filtration rate | Serum, Plasma or Blood | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37024736,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP385392-8",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Predicted Glomerular filtration rate | Serum or Plasma | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36033091,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP421224-9",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Glomerular filtration rate.predicted among blacks | DBS | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44808279,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "857971000000104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Estimated glomerular filtration rate using Chronic Kidney Disease Epidemiology Collaboration formula",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Observable Entity",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37208635,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1107411000000104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Estimated glomerular filtration rate by laboratory calculation",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Observable Entity",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36033624,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP421223-1",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Glomerular filtration rate.predicted among non blacks | DBS | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1618558,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP427762-2",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Glomerular filtration rate/Body surface area | Serum or Plasma | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37027780,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP385391-0",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Predicted Glomerular filtration rate | Blood | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44806420,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "791801000000102",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Estimation of glomerular filtration rate",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37055720,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP385402-5",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Glomerular filtration rate/1.73 sq M | Urine and Serum or Plasma | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37393690,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1020291000000106",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "GFR (glomerular filtration rate) calculated by abbreviated Modification of Diet in Renal Disease Study Group calculation",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Observable Entity",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37068907,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "LP385396-9",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Glomerular filtration rate.predicted among females | Serum, Plasma or Blood | Chemistry - non-challenge",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "LOINC Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[SOS] eGFR Ref",
+      "id": 4
+    }
+  ],
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {"Coeff": 1},
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 3
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "no diagnosis or procedure of ESRD"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {"Coeff": 1},
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"Observation": {
+            "ObservationTypeExclude": false,
+            "CodesetId": 3
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "no diagnosis or procedure of ESRD"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {"Coeff": 1},
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"ProcedureOccurrence": {
+            "CodesetId": 3,
+            "ProcedureTypeExclude": false
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "no diagnosis or procedure of ESRD"
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ConditionOccurrence": {
+        "ConditionTypeExclude": false,
+        "CodesetId": 1
+      }},
+      {"Observation": {
+        "ObservationTypeExclude": false,
+        "CodesetId": 1
+      }},
+      {"ProcedureOccurrence": {
+        "CodesetId": 1,
+        "ProcedureTypeExclude": false
+      }},
+      {"Measurement": {
+        "MeasurementTypeExclude": false,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {"Coeff": -1},
+              "End": {
+                "Days": 90,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "Criteria": {"Measurement": {
+              "MeasurementTypeExclude": false,
+              "CodesetId": 4,
+              "ValueAsNumber": {
+                "Op": "bt",
+                "Extent": 15,
+                "Value": 1
+              },
+              "Unit": [
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 720870,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "mL/min/(173.10*-2.m2)",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "milliliter per minute per 1.73 square meter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 9117,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "mL/min/1.73.m2",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "milliliter per minute per 1.73 square meter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                }
+              ]
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": []
+        },
+        "CodesetId": 4,
+        "ValueAsNumber": {
+          "Op": "bt",
+          "Extent": 15,
+          "Value": 1
+        },
+        "Unit": [
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 720870,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "mL/min/(173.10*-2.m2)",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "milliliter per minute per 1.73 square meter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 9117,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "mL/min/1.73.m2",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "milliliter per minute per 1.73 square meter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          }
+        ]
+      }},
+      {"Observation": {
+        "CorrelatedCriteria": {
+          "CriteriaList": [
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {"Coeff": -1},
+                "End": {
+                  "Days": 90,
+                  "Coeff": -1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"ProcedureOccurrence": {
+                "CodesetId": 2,
+                "ProcedureTypeExclude": false
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            },
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {"Coeff": -1},
+                "End": {
+                  "Days": 90,
+                  "Coeff": -1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"Observation": {
+                "ObservationTypeExclude": false,
+                "CodesetId": 2
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            }
+          ],
+          "Type": "ANY",
+          "DemographicCriteriaList": [],
+          "Groups": []
+        },
+        "ObservationTypeExclude": false,
+        "CodesetId": 2
+      }},
+      {"ProcedureOccurrence": {
+        "CorrelatedCriteria": {
+          "CriteriaList": [
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {"Coeff": -1},
+                "End": {
+                  "Days": 90,
+                  "Coeff": -1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"Observation": {
+                "ObservationTypeExclude": false,
+                "CodesetId": 2
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            },
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {"Coeff": -1},
+                "End": {
+                  "Days": 90,
+                  "Coeff": -1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"ProcedureOccurrence": {
+                "CodesetId": 2,
+                "ProcedureTypeExclude": false
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            }
+          ],
+          "Type": "ANY",
+          "DemographicCriteriaList": [],
+          "Groups": []
+        },
+        "CodesetId": 2,
+        "ProcedureTypeExclude": false
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}
