@@ -6,3 +6,5 @@ atlasId,cohortId,id,cohortName
 12350,12350,12350,[SOS Phenotype devt] End stage renal disease ref 1
 12064,12064,12064,[SOS] End-stage renal disease
 12340,12340,12340,[SOS Phenotype Devt] bevacizumab exposures after new use with 3 exposures in 21-70d windows
+12455,12455,12455,"[SOS] End-stage renal disease, with no other stage kidney disease on index"
+12456,12456,12456,"[SOS] End-stage renal disease, with no other stage kidney disease 0-30 days"

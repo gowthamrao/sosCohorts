@@ -509,7 +509,7 @@
 			"RemoteHost" : "api.github.com",
 			"RemoteRepo" : "CohortGenerator",
 			"RemoteUsername" : "ohdsi",
-			"RemoteRef" : "v0.8.0"
+			"RemoteRef" : "saveIncrementalIssue"
 		},
 		"FeatureExtraction" : {
 			"Package" : "FeatureExtraction",

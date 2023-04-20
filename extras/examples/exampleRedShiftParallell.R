@@ -29,7 +29,7 @@ databaseIds <-
   c(
     'truven_ccae',
     'truven_mdcd',
-    'cprd',
+    #'cprd',
     'jmdc',
     'optum_extended_dod',
     'optum_ehr',
@@ -39,7 +39,7 @@ databaseIds <-
     'ims_france',
     'iqvia_amb_emr',
     'iqvia_pharmetrics_plus',
-	  'premier'
+	 'premier'
   )
 
 ## service name for keyring for db with cdm
@@ -127,3 +127,14 @@ rememberWd <- getwd()
 setwd(outputFolder)
 CohortDiagnostics::createMergedResultsFile(dataFolder = outputFolder, overwrite = TRUE)
 setwd(rememberWd)
+
+
+# launch diagnostics explorer
+CohortDiagnostics::launchDiagnosticsExplorer(
+  sqliteDbPath = file.path(outputFolder, "MergedCohortDiagnosticsData.sqlite"),
+  runOverNetwork = TRUE,
+  makePublishable = TRUE,
+  publishDir = file.path(outputFolder, paste0("app_", projectCode)),
+  overwritePublishDir = TRUE,
+  launch.browser = FALSE
+)
